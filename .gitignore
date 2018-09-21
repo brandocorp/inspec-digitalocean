@@ -1,0 +1,6 @@
+pkg/
+terraform.tfstate
+terraform.tfstate.backup
+tf.plan
+terraform.tfvars
+.terraform
